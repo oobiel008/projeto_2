@@ -1,0 +1,8 @@
+[10/04/2026 17:31:09] 192.168.12.1 - POST - 200 - /home - 712ms - 4751B - HTTP/1.1 - GoogleBot - /home
+[10/04/2026 17:31:28] 192.168.12.3 - GET - 403 - /admin - 264ms - 4356B - HTTP/2 - Safari - /home
+[10/04/2026 17:31:21] 192.168.12.1 - GET - 200 - /home - 173ms - 1262B - HTTP/1.1 - Firefox - /home
+[10/04/2026 17:31:48] 192.168.12.3 - POST - 200 - /login - 169ms - 4280B - HTTP/2 - Safari - /home
+[10/04/2026 17:32:25] 192.168.162.3 - GET - 200 - /produtos - 204ms - 3332B - HTTP/1.1 - Firefox - /home
+[10/04/2026 17:32:39] 192.168.0.3 - GET - 200 - /home - 492ms - 1554B - HTTP/2 - Chrome - /home
+[10/04/2026 17:32:27] 192.168.12.3 - POST - 200 - /contato - 144ms - 4716B - HTTP/1.1 - Chrome - /home
+[10/04/2026 17:32:40] 192.168.0.3 - GET - 200 - /home - 124ms - 1163B - HTTP/2 - Chrome - /home
